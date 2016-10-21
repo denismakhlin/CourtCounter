@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="Team Denis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+        android:background="@android:color/holo_blue_light"
+        android:padding="20dp"
+        android:layout_margin="0dp"
+        android:gravity="center"
+    />
+    <TextView
+        android:text="Score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+        android:background="@android:color/holo_red_light"
+        android:padding="20dp"
+        android:layout_margin="0dp"
+        android:gravity="center"
+        />
+    <TextView
+        android:text="0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+        android:background="@android:color/holo_green_light"
+        android:padding="20dp"
+        android:layout_margin="0dp"
+        android:gravity="center"
+        />
+
+
+</LinearLayout>
