@@ -42,5 +42,11 @@
         android:gravity="center"
         />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1 point"
+        android:id="@+id/button" />
+
 
 </LinearLayout>
